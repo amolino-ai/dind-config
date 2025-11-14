@@ -1,0 +1,6 @@
+{
+    "id": "docker-in-docker-config",
+    "version": "1.0.0",
+    "name": "Docker (Docker-in-Docker) Config",
+    "description": "Provide some default config for Docker daemon"
+}
